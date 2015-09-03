@@ -5,7 +5,7 @@
 ## Getting Started
 This file requires [Scilab](http://www.scilab.org/) and a Toolbox based on the Scilabs [toolbox_skeleton](https://atoms.scilab.org/toolboxes/toolbox_skeleton).
 
-Next steps will be described with the Scilab standard Get the [toolbox_skeleton](https://atoms.scilab.org/toolboxes/toolbox_skeleton/5.5.0/files/toolbox_skeleton-5.5.0-1-src.zip) sources. To follow the Getting Started with the toolbox_skeleton, download it and unzip it somewhere on your computer. 
+Next steps will be described with the Scilab standard [toolbox_skeleton](https://atoms.scilab.org/toolboxes/toolbox_skeleton/5.5.0/files/toolbox_skeleton-5.5.0-1-src.zip). To follow the Getting Started with the `toolbox_skeleton`, [download](https://atoms.scilab.org/toolboxes/toolbox_skeleton/5.5.0/files/toolbox_skeleton-5.5.0-1-src.zip) the sources of the toolbox skeleton and unzip it somewhere on your computer. 
 
 Copy and paste `watch_help.sce` at the root level of your Toolbox (toolbox_skeleton here). 
 
