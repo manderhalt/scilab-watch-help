@@ -35,6 +35,8 @@ Execute `watch_help.sce`
 exec watch_help.sce
 ```
 
+While the process is running, Scilab won't be available! 
+
 The following lines appear:
 ```
 [INFO] Watch Help Builder starts
@@ -42,7 +44,7 @@ The following lines appear:
 [INFO] Wait for file change... 
 ```
 
-Change a `.xml` help file and the help will be rebuilt (or built if it has not been built before). 
+Edit a `.xml` help file with your favorite text editor and the help will be rebuilt automatically (or built if it has not been built before). 
 
 Open a `.html` help file in the web browser of your choice. The `.html` help files are in `../toolbox_skeleton/help/fr_FR/scilab_fr_FR_help` for the french language. 
 
