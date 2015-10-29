@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/manderhalt/scilab-watch-help.png?label=ready&title=Ready)](https://waffle.io/manderhalt/scilab-watch-help)
 # scilab-watch-help v0.1
 
 > Rebuild Scilab help whenever watched files are added, deleted or changed
